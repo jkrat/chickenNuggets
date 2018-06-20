@@ -1,0 +1,36 @@
+#nuggets {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+}
+#question {
+    width: 90%;
+    margin-left: auto;
+    margin-top: 30px;
+}
+#question p{
+    display: inline;
+    font-size: 30px;
+    margin: 0 10px;
+
+}
+[class = "20"] {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 20px;
+}
+[class = "9"] {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 20px;
+}
+[class = "6"] {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 20px;
+}
